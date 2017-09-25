@@ -16,4 +16,4 @@ The first step was to only use the questions about pies and deserts.  I created 
 
 ### Graphing:
 
-I chose side-by-side bar graphs to show the relative numbers of pies and desserts.
+I chose side-by-side bar graphs to show the relative numbers of pies and desserts, as well as counts for each type of pie and dessert.
